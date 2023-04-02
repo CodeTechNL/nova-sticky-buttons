@@ -1,0 +1,14 @@
+/* Nova Asset CSS */
+#app.codetech-sticky-resource-buttons form > .flex {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background: #f1f5f9;
+    width: 100%;
+    padding: 20px;
+}
+
+#app.codetech-sticky-resource-buttons {
+    padding-bottom: 40px;
+}
+
